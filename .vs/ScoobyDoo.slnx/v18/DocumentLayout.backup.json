@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ScoobyDoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60BE4C00-D7DA-201B-9B04-991A86A885A3}|src\\ScoobyDoo.ConsoleApp\\ScoobyDoo.ConsoleApp.csproj|c:\\scoobydoo\\src\\scoobydoo.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BE4C00-D7DA-201B-9B04-991A86A885A3}|src\\ScoobyDoo.ConsoleApp\\ScoobyDoo.ConsoleApp.csproj|solutionrelative:src\\scoobydoo.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ScoobyDoo\\src\\ScoobyDoo.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "src\\ScoobyDoo.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\ScoobyDoo\\src\\ScoobyDoo.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "src\\ScoobyDoo.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T23:57:52.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

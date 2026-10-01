@@ -1,0 +1,15 @@
+C:\ScoobyDoo\src\ScoobyDoo.ConsoleApp\bin\Debug\net10.0\ScoobyDoo.ConsoleApp.exe
+C:\ScoobyDoo\src\ScoobyDoo.ConsoleApp\bin\Debug\net10.0\ScoobyDoo.ConsoleApp.deps.json
+C:\ScoobyDoo\src\ScoobyDoo.ConsoleApp\bin\Debug\net10.0\ScoobyDoo.ConsoleApp.runtimeconfig.json
+C:\ScoobyDoo\src\ScoobyDoo.ConsoleApp\bin\Debug\net10.0\ScoobyDoo.ConsoleApp.dll
+C:\ScoobyDoo\src\ScoobyDoo.ConsoleApp\bin\Debug\net10.0\ScoobyDoo.ConsoleApp.pdb
+C:\ScoobyDoo\src\ScoobyDoo.ConsoleApp\obj\Debug\net10.0\ScoobyDoo.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScoobyDoo\src\ScoobyDoo.ConsoleApp\obj\Debug\net10.0\ScoobyDoo.ConsoleApp.AssemblyInfoInputs.cache
+C:\ScoobyDoo\src\ScoobyDoo.ConsoleApp\obj\Debug\net10.0\ScoobyDoo.ConsoleApp.AssemblyInfo.cs
+C:\ScoobyDoo\src\ScoobyDoo.ConsoleApp\obj\Debug\net10.0\ScoobyDoo.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\ScoobyDoo\src\ScoobyDoo.ConsoleApp\obj\Debug\net10.0\ScoobyDoo.ConsoleApp.dll
+C:\ScoobyDoo\src\ScoobyDoo.ConsoleApp\obj\Debug\net10.0\refint\ScoobyDoo.ConsoleApp.dll
+C:\ScoobyDoo\src\ScoobyDoo.ConsoleApp\obj\Debug\net10.0\ScoobyDoo.ConsoleApp.pdb
+C:\ScoobyDoo\src\ScoobyDoo.ConsoleApp\obj\Debug\net10.0\ScoobyDoo.ConsoleApp.genruntimeconfig.cache
+C:\ScoobyDoo\src\ScoobyDoo.ConsoleApp\obj\Debug\net10.0\ref\ScoobyDoo.ConsoleApp.dll
+C:\ScoobyDoo\src\ScoobyDoo.ConsoleApp\obj\Debug\net10.0\ScoobyDo.3D0FD2D2.Up2Date
